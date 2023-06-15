@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on expanding my skills as a junior software developer.<br><br>👯 I’m looking to collaborate on open-source projects or small web development projects to gain more practical experience.<br><br>🤝 I’m looking for help with enhancing my knowledge of Python and its various frameworks.<br><br>🌱 I’m currently learning Python to broaden my programming language proficiency.<br><br>💬 Ask me about JavaScript, web development, or any questions you have related to programming concepts.<br><br>⚡ Fun fact: Did you know that JavaScript was developed in just 10 days? Brendan Eich created the first version of JavaScript in May 1995 while working at Netscape Communications Corporation.
+🔭 I’m currently working on expanding my skills as a junior software developer.<br><br>👯 I’m looking to collaborate on open-source projects or small web development projects to gain more practical experience.<br><br>🤝 I’m looking for help with enhancing my knowledge of Python and its various frameworks.<br><br>🌱 I’m currently learning Python to broaden my programming language proficiency.<br><br>
 
 
 ## 🌐 Socials:
